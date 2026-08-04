@@ -22,7 +22,7 @@ function App() {
           <a href="#proyek" className="bg-zinc-700 p-4 rounded-2xl hover:bg-zinc-600">Lihat Proyek <i className="ri-arrow-down-line"></i></a>
         </div>
       </div>
-      <img src="/public/bimo.jpeg"  className="w-[500px] md:ml-auto  animate__animated animate__fadeInUp animate__delay-4s" loading="lazy"/>
+      <img src="/assets/bimo.jpeg"  className="w-[500px] md:ml-auto  animate__animated animate__fadeInUp animate__delay-4s" loading="lazy"/>
     </div>
 
     {/*tentang */}
