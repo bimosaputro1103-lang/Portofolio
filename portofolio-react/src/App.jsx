@@ -10,7 +10,7 @@ function App() {
       <div className="animate__animated animate__fadeInUp animate__delay-3s">
         <div className="flex items-center gap-3 mb-6 bg-zinc-800 w-fit p-4 rounded-2xl">
           <img src="/bimo.jpeg" className="w-10 rounded-md" loading="lazy"/>
-          <q>kota yang indah, lahir dari bogor.🤣</q>
+          <q>kota yang indah, lahir dari bogor.😊</q>
         </div>
         <h1 className="text-5xl/tight font-bold mb-6">Hi, saya bimo saputro</h1>
         <p className="text-base/loose mb-6 opacity-50">
